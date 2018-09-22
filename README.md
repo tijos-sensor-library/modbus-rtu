@@ -7,7 +7,7 @@ TiJOS driver for Modbus RTU protocol
 | ---------- | ------------------------------------- |
 | 驱动名称   | MODBUS RTU Client                     |
 | 适用       | 该驱动适用于符合MODBUS RTU 协议的设备 |
-| 通讯方式   | I2C                                   |
+| 通讯方式   | RS485                                   |
 | Java Class | ModbusClient.java                     |
 | 图片       |                                       |
 
